@@ -22,9 +22,11 @@ author_profile: true
 
 国家级一等奖，算法负责人。主要涉及 AURIX TC264 平台、模糊 PID、串级 PID、卡尔曼滤波、赛道元素判断与机械结构协同优化。
 
-**[浙江省人工智能竞赛](/projects/zhejiang-ai-competition/)**
+**[浙江省人工智能竞赛](https://BZhenBot.github.io/projects/zhejiang-ai-competition/)**
 
-省级二等奖，算法负责人。基于 YOLOv5 完成行人检测与实时计数，并结合 DBSCAN 进行高密度区域聚类与异常聚集分析。[查看详情](/projects/zhejiang-ai-competition/)
+省级二等奖，算法负责人。基于 YOLOv5 完成行人检测与实时计数，并结合 DBSCAN 进行高密度区域聚类与异常聚集分析。
+
+[查看详情](https://BZhenBot.github.io/projects/zhejiang-ai-competition/){: .btn .btn--primary }
 
 **数学建模竞赛**
 
