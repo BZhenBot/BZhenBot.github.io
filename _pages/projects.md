@@ -10,6 +10,7 @@ author_profile: true
 项目方向
 ======
 
+- LLM 多智能体系统、Agent 记忆与治理
 - 智能车控制与嵌入式系统
 - 计算机视觉与人群异常检测
 - 数学建模与多目标优化
@@ -18,15 +19,21 @@ author_profile: true
 代表项目
 ======
 
+**[AI 狼人杀：LLM 多智能体博弈、记忆与治理实验平台](/projects/llm-werewolf-agent-platform/)**
+
+围绕字节跳动 AI 全栈挑战赛 Agent 智能体课题，构建了一个以狼人杀为实验场景的 LLM 多智能体实验平台。重点不是单局游戏演示，而是统一 Agent Harness、信息隔离、长流程记忆、行为治理、回放审计和批量评测闭环。
+
+[查看详情](/projects/llm-werewolf-agent-platform/){: .btn .btn--primary }
+
 **全国大学生智能汽车竞赛**
 
 国家级一等奖，算法负责人。主要涉及 AURIX TC264 平台、模糊 PID、串级 PID、卡尔曼滤波、赛道元素判断与机械结构协同优化。
 
-**[浙江省人工智能竞赛](https://BZhenBot.github.io/projects/zhejiang-ai-competition/)**
+**[浙江省人工智能竞赛](/projects/zhejiang-ai-competition/)**
 
 省级二等奖，算法负责人。基于 YOLOv5 完成行人检测与实时计数，并结合 DBSCAN 进行高密度区域聚类与异常聚集分析。
 
-[查看详情](https://BZhenBot.github.io/projects/zhejiang-ai-competition/){: .btn .btn--primary }
+[查看详情](/projects/zhejiang-ai-competition/){: .btn .btn--primary }
 
 **数学建模竞赛**
 
